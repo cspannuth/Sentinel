@@ -1,0 +1,352 @@
+{
+  "schema_version": 4,
+  "target": {
+    "display": "C:\\samples\\files"
+  },
+  "status": "complete",
+  "verdict": "known_malicious_match",
+  "rules": {
+    "status": "ready",
+    "info": {
+      "origin": "bundled-v3",
+      "sha256": "a026bf058a7119bf9bd2745a3cc45f4f55ffdba9b066a3fd7f9728d81b499c03",
+      "engine_version": "1.21.0",
+      "rule_count": 20,
+      "sources": [
+        {
+          "path": {
+            "display": "rules/eset.yar"
+          },
+          "sha256": "f8b40a7f229f4ee1cb0c392a7096829c64ebff0d62a93a78f13eb972fb6cbcf9"
+        },
+        {
+          "path": {
+            "display": "rules/eset_extended.yar"
+          },
+          "sha256": "0d9286c179935a27166ed6c993080baed13987dcd3ccd5fe112d150902d7d5cf"
+        },
+        {
+          "path": {
+            "display": "rules/powershell.yar"
+          },
+          "sha256": "9b3e6f1ae4dedf0b8e0917fc9994d41603176a70662941774b507b5aca2d585b"
+        },
+        {
+          "path": {
+            "display": "rules/self_test.yar"
+          },
+          "sha256": "4dec89aff5b9d850d53aaef7b1d84702e8ef9b51faf5d98c870dee3bd69e312a"
+        },
+        {
+          "path": {
+            "display": "rules/signature_base.yar"
+          },
+          "sha256": "5d4c8ae27092da481484e4a41d0e152d09c88f0146af86a2ad0b9d333c5dacfa"
+        }
+      ]
+    }
+  },
+  "hash_database": {
+    "status": "ready",
+    "info": {
+      "origin": "bundled-v2",
+      "path": {
+        "display": "indicators/known_hashes.json"
+      },
+      "version": "eset-selected-2026-10-16-v2",
+      "source": "ESET Research malware-ioc: eight reviewed investigations",
+      "source_url": "https://github.com/eset/malware-ioc/tree/705ead5a0a86fefae3c2390f91a339852384f438",
+      "license": "BSD-2-Clause",
+      "retrieved_date": "2026-10-16",
+      "sha256": "5ce00738e85e2ee6e3c656c2926ffdc6870336ae973037d09f0e0177e91c77ee",
+      "entry_count": 507
+    }
+  },
+  "summary": {
+    "hashed": 6,
+    "skipped": 0,
+    "inconclusive": 0,
+    "failed": 0,
+    "issues": 0,
+    "pe_analyzed": 0,
+    "pe_incomplete": 0,
+    "signature_scanned": 6,
+    "signature_incomplete": 0,
+    "signature_matches": 5,
+    "hash_checked": 6,
+    "hash_matches": 0,
+    "hash_incomplete": 0
+  },
+  "files": [
+    {
+      "path": {
+        "display": "C:\\samples\\files\\clean.txt"
+      },
+      "metadata": {
+        "size_bytes": 116,
+        "readonly": false,
+        "modified_unix_ms": null
+      },
+      "status": "hashed",
+      "sha256": "bf305453eb9fcc29f990e540f00dd08dc359f624e35f15b8aeb8f0be4347da6c",
+      "pe": {
+        "status": "not_pe"
+      },
+      "signatures": {
+        "status": "complete",
+        "matches": []
+      },
+      "hash_reputation": {
+        "status": "complete",
+        "matched": null
+      },
+      "verdict": "no_detections"
+    },
+    {
+      "path": {
+        "display": "C:\\samples\\files\\powershell-download.txt"
+      },
+      "metadata": {
+        "size_bytes": 127,
+        "readonly": false,
+        "modified_unix_ms": null
+      },
+      "status": "hashed",
+      "sha256": "e6d53de20dc79d3387d2da43b03f6e21427c4f8634ba1a24ab01bb5371554b11",
+      "pe": {
+        "status": "not_pe"
+      },
+      "signatures": {
+        "status": "complete",
+        "matches": [
+          {
+            "rule_id": "Sentinel_PowerShell_Download_And_Execute",
+            "namespace": "default",
+            "category": "suspicious",
+            "description": "PowerShell command combines DownloadString with expression execution; review context",
+            "version": "1",
+            "author": "Sentinel",
+            "license": "CC0-1.0",
+            "locations": [
+              {
+                "pattern_id": "$command",
+                "offset": 0,
+                "length": 11
+              },
+              {
+                "pattern_id": "$download",
+                "offset": 21,
+                "length": 14
+              },
+              {
+                "pattern_id": "$execute_short",
+                "offset": 36,
+                "length": 3
+              }
+            ]
+          }
+        ]
+      },
+      "hash_reputation": {
+        "status": "complete",
+        "matched": null
+      },
+      "verdict": "suspicious"
+    },
+    {
+      "path": {
+        "display": "C:\\samples\\files\\powershell-encoded.txt"
+      },
+      "metadata": {
+        "size_bytes": 122,
+        "readonly": false,
+        "modified_unix_ms": null
+      },
+      "status": "hashed",
+      "sha256": "5eb7f55049e6f5cd84d7c71a1dbdd3b139a002332a606e0786e1d25c90cf3730",
+      "pe": {
+        "status": "not_pe"
+      },
+      "signatures": {
+        "status": "complete",
+        "matches": [
+          {
+            "rule_id": "Sentinel_PowerShell_Encoded_Command",
+            "namespace": "default",
+            "category": "suspicious",
+            "description": "PowerShell command uses EncodedCommand; legitimate administration can also match",
+            "version": "1",
+            "author": "Sentinel",
+            "license": "CC0-1.0",
+            "locations": [
+              {
+                "pattern_id": "$command",
+                "offset": 0,
+                "length": 11
+              },
+              {
+                "pattern_id": "$encoded",
+                "offset": 11,
+                "length": 15
+              }
+            ]
+          }
+        ]
+      },
+      "hash_reputation": {
+        "status": "complete",
+        "matched": null
+      },
+      "verdict": "suspicious"
+    },
+    {
+      "path": {
+        "display": "C:\\samples\\files\\synthetic-alienspy.txt"
+      },
+      "metadata": {
+        "size_bytes": 144,
+        "readonly": false,
+        "modified_unix_ms": null
+      },
+      "status": "hashed",
+      "sha256": "90b236a5d093131cef9b50e421c3b60a98a9cf18a2ac1d11d2cea751e99ba1ba",
+      "pe": {
+        "status": "not_pe"
+      },
+      "signatures": {
+        "status": "complete",
+        "matches": [
+          {
+            "rule_id": "crime_win_rat_AlienSpy",
+            "namespace": "default",
+            "category": "known_malicious",
+            "description": "Alien Spy Remote Access Trojan",
+            "version": "sentinel-import-1",
+            "author": "General Dynamics Fidelis Cybersecurity Solutions - Threat Research Team",
+            "license": "Detection Rule License 1.1 https://github.com/Neo23x0/signature-base/blob/master/LICENSE",
+            "locations": [
+              {
+                "pattern_id": "$sa_1",
+                "offset": 3,
+                "length": 20
+              },
+              {
+                "pattern_id": "$sa_2",
+                "offset": 24,
+                "length": 12
+              },
+              {
+                "pattern_id": "$sa_3",
+                "offset": 37,
+                "length": 22
+              },
+              {
+                "pattern_id": "$sa_4",
+                "offset": 60,
+                "length": 4
+              },
+              {
+                "pattern_id": "$sc_3",
+                "offset": 37,
+                "length": 7
+              }
+            ]
+          }
+        ]
+      },
+      "hash_reputation": {
+        "status": "complete",
+        "matched": null
+      },
+      "verdict": "known_malicious_match"
+    },
+    {
+      "path": {
+        "display": "C:\\samples\\files\\synthetic-ransom-note.txt"
+      },
+      "metadata": {
+        "size_bytes": 203,
+        "readonly": false,
+        "modified_unix_ms": null
+      },
+      "status": "hashed",
+      "sha256": "fdb687c7209b7a46d1e804219aa87282fc25fe59bab16ecf33799dbe2c901a73",
+      "pe": {
+        "status": "not_pe"
+      },
+      "signatures": {
+        "status": "complete",
+        "matches": [
+          {
+            "rule_id": "WannaCry_RansomNote",
+            "namespace": "default",
+            "category": "suspicious",
+            "description": "Detects WannaCry Ransomware Note",
+            "version": "sentinel-import-1",
+            "author": "Florian Roth (Nextron Systems)",
+            "license": "Detection Rule License 1.1 https://github.com/Neo23x0/signature-base/blob/master/LICENSE",
+            "locations": [
+              {
+                "pattern_id": "$s1",
+                "offset": 31,
+                "length": 32
+              },
+              {
+                "pattern_id": "$s2",
+                "offset": 0,
+                "length": 30
+              }
+            ]
+          }
+        ]
+      },
+      "hash_reputation": {
+        "status": "complete",
+        "matched": null
+      },
+      "verdict": "suspicious"
+    },
+    {
+      "path": {
+        "display": "C:\\samples\\files\\test-marker.txt"
+      },
+      "metadata": {
+        "size_bytes": 23,
+        "readonly": false,
+        "modified_unix_ms": null
+      },
+      "status": "hashed",
+      "sha256": "9cab5526548d2ce67b5bc273a52c4a2cc568b7b7ac95bcd390c7f892d0dedaab",
+      "pe": {
+        "status": "not_pe"
+      },
+      "signatures": {
+        "status": "complete",
+        "matches": [
+          {
+            "rule_id": "Sentinel_Benign_Test",
+            "namespace": "default",
+            "category": "test",
+            "description": "Exact harmless Sentinel test marker; this is not a malware detection",
+            "version": "1",
+            "author": "Sentinel",
+            "license": "CC0-1.0",
+            "locations": [
+              {
+                "pattern_id": "$marker",
+                "offset": 0,
+                "length": 23
+              }
+            ]
+          }
+        ]
+      },
+      "hash_reputation": {
+        "status": "complete",
+        "matched": null
+      },
+      "verdict": "test_match"
+    }
+  ],
+  "issues": []
+}

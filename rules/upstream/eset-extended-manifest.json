@@ -1,0 +1,29 @@
+{
+  "commit": "705ead5a0a86fefae3c2390f91a339852384f438",
+  "retrieved_date": "2026-10-16",
+  "sources": [
+    {
+      "path": "ta410/ta410.yar",
+      "url": "https://github.com/eset/malware-ioc/blob/705ead5a0a86fefae3c2390f91a339852384f438/ta410/ta410.yar",
+      "sha256": "8e63a4af9e485921923011bcc2c77bfd1aa89fb2b504811a3ae5e14f2f915f57",
+      "rules": [
+        "apt_Windows_TA410_Tendyron_dropper",
+        "apt_Windows_TA410_Tendyron_installer",
+        "apt_Windows_TA410_Tendyron_Downloader",
+        "apt_Windows_TA410_X4_hash_values",
+        "apt_Windows_TA410_LookBack_decryption",
+        "apt_Windows_TA410_LookBack_loader",
+        "apt_Windows_TA410_LookBack_HTTP"
+      ]
+    },
+    {
+      "path": "invisimole/invisimole.yar",
+      "url": "https://github.com/eset/malware-ioc/blob/705ead5a0a86fefae3c2390f91a339852384f438/invisimole/invisimole.yar",
+      "sha256": "e96981b4ffe5311deb2078179afbf97fcc36341cbd4c08a02a8163abbcd73873",
+      "rules": [
+        "apt_Windows_InvisiMole_SFX_Dropper"
+      ]
+    }
+  ],
+  "selected_sha256": "bb70ddd427d9a5fc87ce5601caf62fbabb9e07f6700ef5e070b1b99798418947"
+}

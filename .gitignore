@@ -1,0 +1,13 @@
+/target/
+/desktop/node_modules/
+/desktop/dist/
+/desktop/src-tauri/target/
+/desktop/src-tauri/gen/
+/.local/
+/reports/
+/scan-report*.json
+.env
+.env.*
+!.env.example
+agents.md
+/samples

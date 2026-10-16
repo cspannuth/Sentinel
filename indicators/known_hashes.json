@@ -1,0 +1,2545 @@
+{
+  "schema_version": 1,
+  "version": "eset-selected-2026-10-16-v2",
+  "source": "ESET Research malware-ioc: eight reviewed investigations",
+  "source_url": "https://github.com/eset/malware-ioc/tree/705ead5a0a86fefae3c2390f91a339852384f438",
+  "license": "BSD-2-Clause",
+  "retrieved_date": "2026-10-16",
+  "entries": [
+    {
+      "sha256": "b88306f2ed133b9974c33ba731bde72510d1ec5a08a766f8e3299a3c3da33a67",
+      "category": "known_malicious",
+      "description": "ESET Research: AsyncRAT clients and plugins investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "23b40e6b506a4767a8aa5b79972f7e6db079faa9f7e7bebbd29381deb6b0431e",
+      "category": "known_malicious",
+      "description": "ESET Research: AsyncRAT clients and plugins investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "674bfa896f86cbefa2054917bd0c6f4d92fefddb44c980731dcdc1dc80872150",
+      "category": "known_malicious",
+      "description": "ESET Research: AsyncRAT clients and plugins investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "8d62b295701f2744d654634775b8361b3861f6aa8e2a02589e714366314a497d",
+      "category": "known_malicious",
+      "description": "ESET Research: AsyncRAT clients and plugins investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "cb403c05f19d6144911c9cafa017c9c05f632b0daaf598937cfd984401c7a406",
+      "category": "known_malicious",
+      "description": "ESET Research: AsyncRAT clients and plugins investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "6e577042fe47a87a18e1ca6de35e562b64d308c45b31ad1dd9a2d8531270d3e8",
+      "category": "known_malicious",
+      "description": "ESET Research: AsyncRAT clients and plugins investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "83d4c62361c62d27a8c3fa883c6ce961c49bc02807a887e5d7c443da05999a11",
+      "category": "known_malicious",
+      "description": "ESET Research: AsyncRAT clients and plugins investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "522d4528ed25fe6ce9422b45ac4d162e7567330c0fcb274de247c4cb07ed794b",
+      "category": "known_malicious",
+      "description": "ESET Research: AsyncRAT clients and plugins investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "6a51397e57a7a1c68cb7e341b520efc5bf10eccc55afebf7c5472b3b417408f1",
+      "category": "known_malicious",
+      "description": "ESET Research: AsyncRAT clients and plugins investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "319eebfe268b98849276901a885c1764cd0d964691fbe0d58689ef2a62f051c9",
+      "category": "known_malicious",
+      "description": "ESET Research: AsyncRAT clients and plugins investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "910d46e7b88983251e7235fb4e6d93b2f906e645b65dbc8cf8070110443254c5",
+      "category": "known_malicious",
+      "description": "ESET Research: AsyncRAT clients and plugins investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "9a8dbbe51d9c9af6f5441e9df456ec33f1fdb00e576363c72d28dcf38ea60a6e",
+      "category": "known_malicious",
+      "description": "ESET Research: AsyncRAT clients and plugins investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "ce580173f80ea8926a342a00c2391769b1cddbfba790f49e78884f534ac3810d",
+      "category": "known_malicious",
+      "description": "ESET Research: AsyncRAT clients and plugins investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "cd66b5225632c087ef00c5b47f4924772203808d5ea377b3455cbae8e08ac41f",
+      "category": "known_malicious",
+      "description": "ESET Research: AsyncRAT clients and plugins investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "57cdeca5d774353b37affdb9f3bf50bff0e16140a9ced996f5ac3925de362074",
+      "category": "known_malicious",
+      "description": "ESET Research: AsyncRAT clients and plugins investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "14a5edabc087617810f9ff2aa7a27d3642863be143f4be27ef91df5dd2c64c21",
+      "category": "known_malicious",
+      "description": "ESET Research: AsyncRAT clients and plugins investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "927f69d3947c1e35d7fa3d7d77e8e46d9e5c38781db4bb1af18e9b27d7666fa8",
+      "category": "known_malicious",
+      "description": "ESET Research: AsyncRAT clients and plugins investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "20e182848bc93bae086ff27514c971ebccafdb8e2d7c3ca038b1785365b12868",
+      "category": "known_malicious",
+      "description": "ESET Research: AsyncRAT clients and plugins investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "0d2b60ff8d8772275afc7464386b59bce476e56b157ca0932b44ba4a994fb6ac",
+      "category": "known_malicious",
+      "description": "ESET Research: AsyncRAT clients and plugins investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "6738a2a7e01e63db60c542d4a9be85d344e804384bec18aedbae91ab3f7eb607",
+      "category": "known_malicious",
+      "description": "ESET Research: AsyncRAT clients and plugins investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "361460640ed375bf2c7728069ad647b79e13138680ad2444e58ce781d76d2200",
+      "category": "known_malicious",
+      "description": "ESET Research: AsyncRAT clients and plugins investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "ba499f290dcd9101bf45d836982e9b7d6c8eadc7df3ebe69c1d022f9b88d1e9c",
+      "category": "known_malicious",
+      "description": "ESET Research: AsyncRAT clients and plugins investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "be3236730bd792ce698f9335b2be7334eb9f50ba34351891a4c2062f1d23074f",
+      "category": "known_malicious",
+      "description": "ESET Research: Bandook campaign malware and malicious delivery artifacts; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "435fa80c1088c8e2b821cf86d5f5a6c2cebf41e3b12d067473c79ab5773d3862",
+      "category": "known_malicious",
+      "description": "ESET Research: Bandook campaign malware and malicious delivery artifacts; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "eedc849b362788b93215395fc5acec5b7e72927f28a5cf947bd9bc272c1c3a68",
+      "category": "known_malicious",
+      "description": "ESET Research: Bandook campaign malware and malicious delivery artifacts; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "109e1488ec961feedbab425d569423376d1cae2db2f6ddc643d2ebe9cc47aae5",
+      "category": "known_malicious",
+      "description": "ESET Research: Bandook campaign malware and malicious delivery artifacts; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "42fc1774c4c9194ecb3c16438aaa861bfca1926250bee67e9f6579e77f9eb6f9",
+      "category": "known_malicious",
+      "description": "ESET Research: Bandook campaign malware and malicious delivery artifacts; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "80c6276d6a0ae975f32e61f3905ce5b1cd7d4a948a5a16e96bc49523b7bfbfdc",
+      "category": "known_malicious",
+      "description": "ESET Research: Bandook campaign malware and malicious delivery artifacts; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "3e66d0aa97cf70316794452599a556e969886f6ec74ca3735ce8f37475dcfc98",
+      "category": "known_malicious",
+      "description": "ESET Research: Bandook campaign malware and malicious delivery artifacts; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "6c5401bd2e8f0676eb7eba492a4052df963fdc4c33353df9243e5fd8ddabe01f",
+      "category": "known_malicious",
+      "description": "ESET Research: Bandook campaign malware and malicious delivery artifacts; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "07bf90a58d389b20a229e00134fc051565ccd6fec7e3aaab0f959c3ff4fac3f3",
+      "category": "known_malicious",
+      "description": "ESET Research: Bandook campaign malware and malicious delivery artifacts; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "16792ac24401ca6da096f3af8457da735707c2a90098097506e0dff3a6facbe3",
+      "category": "known_malicious",
+      "description": "ESET Research: Bandook campaign malware and malicious delivery artifacts; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "30a8ac0bcaaab907a84cc576087f816fc5daa144fd2c01a5eb491c478cd02924",
+      "category": "known_malicious",
+      "description": "ESET Research: Bandook campaign malware and malicious delivery artifacts; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "c7ecc0590bd9767bda6155eb622ed3e8f6f278588290aad31db78eaeb03fd1c8",
+      "category": "known_malicious",
+      "description": "ESET Research: Bandook campaign malware and malicious delivery artifacts; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "a53e62a414e9f5ba117a52c7b3ca45bea77beff769e5e175b92592d352e962a7",
+      "category": "known_malicious",
+      "description": "ESET Research: Bandook campaign malware and malicious delivery artifacts; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "3440fbadeb09c8f29e1f287ff59c43c80e4303b4b87556876de8ad3e54a57d1f",
+      "category": "known_malicious",
+      "description": "ESET Research: Bandook campaign malware and malicious delivery artifacts; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "6b5065ba8a2dfbde7c8fbaacc9968ac014e1d69ba5880c70cc3a10cf0078a653",
+      "category": "known_malicious",
+      "description": "ESET Research: Bandook campaign malware and malicious delivery artifacts; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "f3934392f9fbee01a7519441060abe53d8cfa2d8ee82c003bf960fa70d44c76e",
+      "category": "known_malicious",
+      "description": "ESET Research: Bandook campaign malware and malicious delivery artifacts; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "51764293a47f9b982c685c9480c44109753507d9a52adfb44d68a42d37a734ac",
+      "category": "known_malicious",
+      "description": "ESET Research: Bandook campaign malware and malicious delivery artifacts; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "1c860f7b2e415d05ebb301352ff32588a4e90eb95475d10453c42381a387dadb",
+      "category": "known_malicious",
+      "description": "ESET Research: Bandook campaign malware and malicious delivery artifacts; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "f16bf36cf1ff9ce275eefd0212bd742aa15e7dd5e24e425c8904a19710bb56d6",
+      "category": "known_malicious",
+      "description": "ESET Research: Bandook campaign malware and malicious delivery artifacts; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "d21ebdbcde261c4c6e17221e1db40952c3175f4550b7bfea9ce9ece3acfb84fd",
+      "category": "known_malicious",
+      "description": "ESET Research: Bandook campaign malware and malicious delivery artifacts; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "fae2004c42356a6159e41e424a018f230aac469fef5705001b35738c7c081e7b",
+      "category": "known_malicious",
+      "description": "ESET Research: Bandook campaign malware and malicious delivery artifacts; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "294dbe666366b44bf8a26bd350305129a0837ee4e9e2692ca1bc1e85170068e0",
+      "category": "known_malicious",
+      "description": "ESET Research: Bandook campaign malware and malicious delivery artifacts; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "d6b038bae76d989dce845c3d754fe802586282fd626b0cd769a48bcca355dd28",
+      "category": "known_malicious",
+      "description": "ESET Research: Bandook campaign malware and malicious delivery artifacts; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "0d736e169263524b34ccfba01828f0f3a0c177e66814a476583cbbbbe414407a",
+      "category": "known_malicious",
+      "description": "ESET Research: Bandook campaign malware and malicious delivery artifacts; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "51367cf1a79f11c5801c47f1fbe68c765c1e90602cb7ff49dc00af5e2701c9d5",
+      "category": "known_malicious",
+      "description": "ESET Research: Bandook campaign malware and malicious delivery artifacts; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "60c74b2d785acf899364f32be4065baf66f43675f73059f330c2e1d8901f754e",
+      "category": "known_malicious",
+      "description": "ESET Research: Bandook campaign malware and malicious delivery artifacts; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "63d76eacadc24f9ca5acc063b3f4197c56fd6956a4ecb980104b2c3a169f4a76",
+      "category": "known_malicious",
+      "description": "ESET Research: Bandook campaign malware and malicious delivery artifacts; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "34bd67837763c662c5f9787509a9ae459b317ee6321240a45fed36cd2552bbe5",
+      "category": "known_malicious",
+      "description": "ESET Research: Bandook campaign malware and malicious delivery artifacts; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "6308449bbda33bb08e6322d5d02e965526070cdff1ef371ad5851b9f4f81550d",
+      "category": "known_malicious",
+      "description": "ESET Research: Bandook campaign malware and malicious delivery artifacts; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "424e7fc3b2492f766026bd2cbde5ed9a17eea0c5bca52a1ea54571573c8b1db7",
+      "category": "known_malicious",
+      "description": "ESET Research: Bandook campaign malware and malicious delivery artifacts; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "4e5f60d84c006716e6e3cca5c075b045fb6c42665511d039c677e113dee00d6a",
+      "category": "known_malicious",
+      "description": "ESET Research: Bandook campaign malware and malicious delivery artifacts; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "30cb8f9c24d48f7a2928bc15da68b9c577e0cae6a9c22bbed015cbf3ac546062",
+      "category": "known_malicious",
+      "description": "ESET Research: Bandook campaign malware and malicious delivery artifacts; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "e987806cf2488b5ac1dc3108b53af2a71c23a6bdcbfc913f0f594917c89311f5",
+      "category": "known_malicious",
+      "description": "ESET Research: Bandook campaign malware and malicious delivery artifacts; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "3e973929850daa8d3bc6156538715b445dba5de3a4eca1175b32242ea4a0b1a8",
+      "category": "known_malicious",
+      "description": "ESET Research: Bandook campaign malware and malicious delivery artifacts; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "cbbe99d479c0ec0577a828ae871dad8caf77a8c7b824f9b33885f7831ed3104d",
+      "category": "known_malicious",
+      "description": "ESET Research: Bandook campaign malware and malicious delivery artifacts; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "93eb86acf2bb65f042f2fe84952b5e7dd88aff11f97bce329e67d6a905178f3c",
+      "category": "known_malicious",
+      "description": "ESET Research: Bandook campaign malware and malicious delivery artifacts; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "254fddc87c11d2b4ba211a9d81e50c0aeb6b4fc9551aabacd29f4899672c4c93",
+      "category": "known_malicious",
+      "description": "ESET Research: Bandook campaign malware and malicious delivery artifacts; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "6796a832fc118a4a8cb34c206bb9875f7d0b3e3f20b454b1ec92aa4ce78b5918",
+      "category": "known_malicious",
+      "description": "ESET Research: Bandook campaign malware and malicious delivery artifacts; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "58c6424d1d5365f3b596c311f77bf1635a84ecab176a829418ca2076974e91ed",
+      "category": "known_malicious",
+      "description": "ESET Research: Bandook campaign malware and malicious delivery artifacts; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "355f3a8c8fb5ce38d4c0d60e568210897c29c0c947fb350a176797e47815cc60",
+      "category": "known_malicious",
+      "description": "ESET Research: Bandook campaign malware and malicious delivery artifacts; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "2731c47eb1b2271600616f44a8639b9d6bba746bcd2302c69ca1b6445ec65778",
+      "category": "known_malicious",
+      "description": "ESET Research: Bandook campaign malware and malicious delivery artifacts; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "6237e17239b86dd6c44927b4c96a5282a200e2d51950ad6e06a43673b4579132",
+      "category": "known_malicious",
+      "description": "ESET Research: Bandook campaign malware and malicious delivery artifacts; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "d3e7b5be903eb9a596b9b2b78e5dd28390c6aadb8bdd4ea1ba3d896d99fa0057",
+      "category": "known_malicious",
+      "description": "ESET Research: Bandook campaign malware and malicious delivery artifacts; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "9bed6ae8561bb3c54099044c461f305ae0214e8e9972c5ab362f493e2ac07e38",
+      "category": "known_malicious",
+      "description": "ESET Research: Bandook campaign malware and malicious delivery artifacts; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "ef685010db02f2779e9d77922ec73335108475cadcda5e44511689c7e055b53f",
+      "category": "known_malicious",
+      "description": "ESET Research: Bandook campaign malware and malicious delivery artifacts; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "b19c914ecd79652b8b3687c6db37272ec544409e5f6e228509d5b3e0d14f6448",
+      "category": "known_malicious",
+      "description": "ESET Research: Bandook campaign malware and malicious delivery artifacts; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "51244b739bc4eb71ed8a8beb9c994dd50139e7e0ea1bf46717c246c1c2215064",
+      "category": "known_malicious",
+      "description": "ESET Research: Bandook campaign malware and malicious delivery artifacts; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "319d3826566542589feafeae046ea9515480a71fdc6460c8207153834d190148",
+      "category": "known_malicious",
+      "description": "ESET Research: Bandook campaign malware and malicious delivery artifacts; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "e3bd3dbe88612f73711d0355bb08b0f68ca5dc212ed0efce515b0b77a56d0976",
+      "category": "known_malicious",
+      "description": "ESET Research: Bandook campaign malware and malicious delivery artifacts; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "ef3385b7fb16c83554f9ff8a1f4b53035de6e26df630980b332a20e0c7aa89b9",
+      "category": "known_malicious",
+      "description": "ESET Research: Bandook campaign malware and malicious delivery artifacts; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "661150072534207bf82470c9675b4167cdb340ac1b90c3d4fe4bd11ff98322b7",
+      "category": "known_malicious",
+      "description": "ESET Research: Bandook campaign malware and malicious delivery artifacts; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "3d3a6dbbe16ce2f98553faf2313b75628db372c9d48d6dd374fe58c436946cdb",
+      "category": "known_malicious",
+      "description": "ESET Research: Bandook campaign malware and malicious delivery artifacts; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "1edf2794c7e3e60c7ecd1ceaf937fad36ea17b806909725f8ec0a3d7a45efa71",
+      "category": "known_malicious",
+      "description": "ESET Research: Bandook campaign malware and malicious delivery artifacts; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "4751ae08cfe2456484f3154bbf84629292e9be321863da3ebba57aa9c735826e",
+      "category": "known_malicious",
+      "description": "ESET Research: Bandook campaign malware and malicious delivery artifacts; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "11819d29ed459d1b04cd36606fdf19988fa8823bd08e6d33ce9c2bc74f4a6ca9",
+      "category": "known_malicious",
+      "description": "ESET Research: Bandook campaign malware and malicious delivery artifacts; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "9d83ef13f099f4d45852207615e4148b49ebd8c8af32c54211b95c66f2e2962b",
+      "category": "known_malicious",
+      "description": "ESET Research: Bandook campaign malware and malicious delivery artifacts; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "671d8126f4f6fdd7d696673b5cc726cd5359e9c78541836bacdcd36207af6705",
+      "category": "known_malicious",
+      "description": "ESET Research: Bandook campaign malware and malicious delivery artifacts; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "add9f9dca97c3b6d52efe7d48ecd3d349a70411eaa3d4aeff6e6215b77f42b90",
+      "category": "known_malicious",
+      "description": "ESET Research: Bandook campaign malware and malicious delivery artifacts; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "5c2492bf87b330781c743f169861bc4b64a16ffa3b7271464d586a6f472acdd8",
+      "category": "known_malicious",
+      "description": "ESET Research: Bandook campaign malware and malicious delivery artifacts; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "ee67a80a8f8d00f6a2acd2a3ce3321fbe3a8a72045dbedda73bb8014126c3c4b",
+      "category": "known_malicious",
+      "description": "ESET Research: Bandook campaign malware and malicious delivery artifacts; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "4f9d36fb10dd140f80278d9ea90aa424c011464c2e4a626e885b9d23b99bfe72",
+      "category": "known_malicious",
+      "description": "ESET Research: Bandook campaign malware and malicious delivery artifacts; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "fe1bc6b0add467c7d9dc990cb9f827cc003ae63a71aa89969a21b00596525f7e",
+      "category": "known_malicious",
+      "description": "ESET Research: Bandook campaign malware and malicious delivery artifacts; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "313f6ffbcf1e48456a5b7bc905c4a89ccbce2c36036f5ec17a94975cdc2e11ad",
+      "category": "known_malicious",
+      "description": "ESET Research: Bandook campaign malware and malicious delivery artifacts; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "76f9615ce6ce6d20a9404b29649a4987a315c6b6fc703fa289da0aae37d39bce",
+      "category": "known_malicious",
+      "description": "ESET Research: Bandook campaign malware and malicious delivery artifacts; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "7fd38cbd03570ed6ded2204f9af94fe6e9095b5acbb182985c960139183ae32d",
+      "category": "known_malicious",
+      "description": "ESET Research: Bandook campaign malware and malicious delivery artifacts; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "3fda0a5da313886b0339eee65c69c779ed620b303ba079ee0864ca4a1496b0b4",
+      "category": "known_malicious",
+      "description": "ESET Research: Bandook campaign malware and malicious delivery artifacts; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "001361420c48f1ba0485890424cc545c0686c99bdcdd5ff0ebcc5d8c036aa8fb",
+      "category": "known_malicious",
+      "description": "ESET Research: Bandook campaign malware and malicious delivery artifacts; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "f62acf6d44ebf82a4667ebc34f7f47f94850e79769850f504762afdb95258855",
+      "category": "known_malicious",
+      "description": "ESET Research: Bandook campaign malware and malicious delivery artifacts; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "2b54f945f5e3d226d3a09cdfcc41e311b039ceadf277310697672c8c706aa912",
+      "category": "known_malicious",
+      "description": "ESET Research: Bandook campaign malware and malicious delivery artifacts; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "8f4eb545798d3c9e95fcce6cbfc06718f1dee1cd3e5aafce75e21702f7302739",
+      "category": "known_malicious",
+      "description": "ESET Research: Bandook campaign malware and malicious delivery artifacts; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "d37be035f35fffd3756bd75108f5bad03b67760a785eb40f70a12f6acd32726a",
+      "category": "known_malicious",
+      "description": "ESET Research: Bandook campaign malware and malicious delivery artifacts; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "e447c615af6b877ce48bd16a78cc2103b39a216d1cf2a37585120873b2709f84",
+      "category": "known_malicious",
+      "description": "ESET Research: Bandook campaign malware and malicious delivery artifacts; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "408c11caf548048732ac21e88a54e80d47a05b9619c1c16b65fa850e0172f428",
+      "category": "known_malicious",
+      "description": "ESET Research: Bandook campaign malware and malicious delivery artifacts; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "211f1638041aa08762a90c15b1aff699d47e4da21429c22b56f8a3103d13b496",
+      "category": "known_malicious",
+      "description": "ESET Research: Bandook campaign malware and malicious delivery artifacts; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "4061b797be0d8a2862c9215afcd10b84a15cae8e8dadf1ca1cb2108029cd71f0",
+      "category": "known_malicious",
+      "description": "ESET Research: Bandook campaign malware and malicious delivery artifacts; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "c2990fbad0a7117d77f719ddfd25048d706d837d66994b4cc8c623d9a6d09cd8",
+      "category": "known_malicious",
+      "description": "ESET Research: Bandook campaign malware and malicious delivery artifacts; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "b8c1cb11108d62611ac8035701eea8bb90b55faff2d0a28c23e2dcced176a52f",
+      "category": "known_malicious",
+      "description": "ESET Research: Bandook campaign malware and malicious delivery artifacts; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "84a808714005553fa1dcd8cbe89a4f992c08cd91d6b5f151add977ba74efde72",
+      "category": "known_malicious",
+      "description": "ESET Research: Bandook campaign malware and malicious delivery artifacts; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "a7f4bf90a068bdd01c98097809aeacf70726f9770cb17e9cffe7f88908681f60",
+      "category": "known_malicious",
+      "description": "ESET Research: Bandook campaign malware and malicious delivery artifacts; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "1b6b1986baccd2c6d92217980d3007b8c5c694966e5867b875cbd5520c19e922",
+      "category": "known_malicious",
+      "description": "ESET Research: Bandook campaign malware and malicious delivery artifacts; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "0c5735e066bfbc774906942e97a6ffc95f36f88b9960c4dd6555247b3dd2cdb0",
+      "category": "known_malicious",
+      "description": "ESET Research: Bandook campaign malware and malicious delivery artifacts; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "b7a4667d968452334092a6bf667934aa929a1d2179d584e91b7f82bbbd3f2ced",
+      "category": "known_malicious",
+      "description": "ESET Research: Bandook campaign malware and malicious delivery artifacts; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "df5de20920d9ec68b71588cdbecb5c0314b3558d1d0f1629e2d774e456ad0197",
+      "category": "known_malicious",
+      "description": "ESET Research: Bandook campaign malware and malicious delivery artifacts; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "a3555bbb8ca36bb4a5e17b7d981b02d3d59dadc0fcb627ecfcd10f505e52be9b",
+      "category": "known_malicious",
+      "description": "ESET Research: Bandook campaign malware and malicious delivery artifacts; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "19c99a1b8731b88b94ace52c0da8861e47462883c93230ae583e22518933adef",
+      "category": "known_malicious",
+      "description": "ESET Research: Bandook campaign malware and malicious delivery artifacts; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "84fe7afa9c754a9826b8c5eff54456e7728691b7ddbc4c3f54d3ab765d091496",
+      "category": "known_malicious",
+      "description": "ESET Research: Bandook campaign malware and malicious delivery artifacts; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "f47627185d76738d3acccb7418915eb4cdd2b043d0a68cdaf8dabbe048932642",
+      "category": "known_malicious",
+      "description": "ESET Research: Bandook campaign malware and malicious delivery artifacts; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "c35ce22a92af17da41bb4e8351a89fdd277de0f97f54039331097156cca80543",
+      "category": "known_malicious",
+      "description": "ESET Research: Bandook campaign malware and malicious delivery artifacts; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "744408bbc97cfadef30985724b440f64d76d16a721e4dd7634b9579f6dec8c9b",
+      "category": "known_malicious",
+      "description": "ESET Research: Bandook campaign malware and malicious delivery artifacts; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "db840b358cb4ca561e3730cc895ef7ecaf41750e34afedabfd5918dd59688344",
+      "category": "known_malicious",
+      "description": "ESET Research: Bandook campaign malware and malicious delivery artifacts; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "e5526ff962f32795456aebf338f205a03016e82123bd84a880b4e9cde502f4a3",
+      "category": "known_malicious",
+      "description": "ESET Research: Bandook campaign malware and malicious delivery artifacts; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "aaa29a7b5370cc98bfa346c460b48d1ae57034ecda1367d2fae15ae3fc4fedae",
+      "category": "known_malicious",
+      "description": "ESET Research: Bandook campaign malware and malicious delivery artifacts; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "6c1e91c685dd5b9aa7e7ac0a972e3049eb8184fbb9a2875939d6cf284b23e66c",
+      "category": "known_malicious",
+      "description": "ESET Research: Bandook campaign malware and malicious delivery artifacts; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "68078c6f931d71c86be86f1abc4cf9975ec8bcb6c5909a4db5a5a9bc3de90c91",
+      "category": "known_malicious",
+      "description": "ESET Research: Bandook campaign malware and malicious delivery artifacts; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "d680b7824f5bf511743a277a1b4d3f6f587f2dcb20d1f61dd82852c83d4c3bf2",
+      "category": "known_malicious",
+      "description": "ESET Research: Bandook campaign malware and malicious delivery artifacts; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "94e3251e86673d8bc735796e3b6de8a630f1d0802c52e775df5589ad95f99971",
+      "category": "known_malicious",
+      "description": "ESET Research: Bandook campaign malware and malicious delivery artifacts; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "ba153e449ee926c019b548997c32d0579b9c6f350b1590a025d5d9a216ddbffd",
+      "category": "known_malicious",
+      "description": "ESET Research: Bandook campaign malware and malicious delivery artifacts; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "66c86f29afb1152aad8e426ebb6569ad03ce7b69ea3c8a5cc40011c2a3ab973b",
+      "category": "known_malicious",
+      "description": "ESET Research: Bandook campaign malware and malicious delivery artifacts; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "d6b591f92882940cf1abf9d26d0ce3a6b3c6093663fac73a321d2886d3099e8b",
+      "category": "known_malicious",
+      "description": "ESET Research: Bandook campaign malware and malicious delivery artifacts; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "ea4792353e0f97968e7c69ffba81c144f22f54382af4e61a1347edd0ae15830f",
+      "category": "known_malicious",
+      "description": "ESET Research: Bandook campaign malware and malicious delivery artifacts; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "aed7ab5d0de01c3724c917c034e26a5e9eed3f7fbf4082b024576a41725d66cf",
+      "category": "known_malicious",
+      "description": "ESET Research: Bandook campaign malware and malicious delivery artifacts; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "c69d5d375a5a32701bb68c09e7f1fdf64e59cac81c73cf42d0ec8ed2fc160344",
+      "category": "known_malicious",
+      "description": "ESET Research: Bandook campaign malware and malicious delivery artifacts; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "02f075cca8a305204fcab0bba7245461b20236d7747c06030f988f2ed61103fd",
+      "category": "known_malicious",
+      "description": "ESET Research: Bandook campaign malware and malicious delivery artifacts; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "f1b8e44db9713b318eb8d5ad9a6b5f6feb303e1e5e70bf20c5d2df93a2c650f8",
+      "category": "known_malicious",
+      "description": "ESET Research: Bandook campaign malware and malicious delivery artifacts; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "5aef8db2b66fe0b91936bfa5694998b642d0f96aec2a527277cbe772aaa0edb6",
+      "category": "known_malicious",
+      "description": "ESET Research: Bandook campaign malware and malicious delivery artifacts; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "ee308411537489f6fb84b97a3b04aa2405cbbaad47e51958ddd6c83ef122a82f",
+      "category": "known_malicious",
+      "description": "ESET Research: Bandook campaign malware and malicious delivery artifacts; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "96e8fb0e9ebec5b0475d53063e9afc83dac0b93f7f1ef1ad36a21bfe56a8df86",
+      "category": "known_malicious",
+      "description": "ESET Research: Bandook campaign malware and malicious delivery artifacts; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "a402133f36a107becf17eea206ee78b21d5c1f19e618b5a335fd27878f762b1a",
+      "category": "known_malicious",
+      "description": "ESET Research: Bandook campaign malware and malicious delivery artifacts; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "1c8d56dc1cbbf6479818049f6b308545d69708c40fb73e14cedfe9463b7e1f28",
+      "category": "known_malicious",
+      "description": "ESET Research: Bandook campaign malware and malicious delivery artifacts; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "4091e0625ccd06435781e503bdf470211203ffd15278a582c0ba368b25c46541",
+      "category": "known_malicious",
+      "description": "ESET Research: Bandook campaign malware and malicious delivery artifacts; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "04ebbc70f20ff1c0dc8d256c4ce8f02e3aedb7e22b4549aa322a2d8f1661d49b",
+      "category": "known_malicious",
+      "description": "ESET Research: Bandook campaign malware and malicious delivery artifacts; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "e3add0e85de8ff20ed67fe5dd87acbfa69c0ff8fa9dc563349a8c177568e96f1",
+      "category": "known_malicious",
+      "description": "ESET Research: Bandook campaign malware and malicious delivery artifacts; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "32aab0d01e7aa5283cb7a386069376c5a32d930ace544c54433beb4a852f895c",
+      "category": "known_malicious",
+      "description": "ESET Research: Bandook campaign malware and malicious delivery artifacts; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "82b04a2568cbb16c4ccf921da97e402b5795e8b3da9890c3da60231ed5f4ef27",
+      "category": "known_malicious",
+      "description": "ESET Research: Bandook campaign malware and malicious delivery artifacts; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "37d4a6f47d284b78301b84cd6ea084490b8b195bec51e0c330e7095154b2f3d6",
+      "category": "known_malicious",
+      "description": "ESET Research: Bandook campaign malware and malicious delivery artifacts; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "a67e099b1a6dbc2a5039e0a1b07fbc714c8e2849e77273c512bd3bfac9e32e0f",
+      "category": "known_malicious",
+      "description": "ESET Research: Bandook campaign malware and malicious delivery artifacts; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "f068af1f2491f76d1ebb9bfb7bb2da62ff2790a80f563447f285b90c73428502",
+      "category": "known_malicious",
+      "description": "ESET Research: Bandook campaign malware and malicious delivery artifacts; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "d46345c4bfd1df9e48047a4b7683a4479aa7958c4fbba721c3583ac12fde4e85",
+      "category": "known_malicious",
+      "description": "ESET Research: Bandook campaign malware and malicious delivery artifacts; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "b0d87ccff694ea3147b7046335566bfff0da93f33572dccc95ff77807fcba59c",
+      "category": "known_malicious",
+      "description": "ESET Research: Bandook campaign malware and malicious delivery artifacts; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "e862871a3f55a2660ca26817a4230c6a9c6f50622652e3efbe9f3555505a0fe5",
+      "category": "known_malicious",
+      "description": "ESET Research: Bandook campaign malware and malicious delivery artifacts; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "ee4448ba305c0ad96f1ffef019c547d040a593d4d74a200aa10add2d4e6add1f",
+      "category": "known_malicious",
+      "description": "ESET Research: Bandook campaign malware and malicious delivery artifacts; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "a0d9840db727adec5198ed031d3d904840df83cae6a183d353569fcdab66d2d2",
+      "category": "known_malicious",
+      "description": "ESET Research: Bandook campaign malware and malicious delivery artifacts; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "14e143add073ef498e48df634d3fda3d3f716789660b150643c6aae2f138ba5e",
+      "category": "known_malicious",
+      "description": "ESET Research: Bandook campaign malware and malicious delivery artifacts; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "e152ca2a644ddfbe70e8c866b1a55181a729b5e983073a47819c9f481274896e",
+      "category": "known_malicious",
+      "description": "ESET Research: Bandook campaign malware and malicious delivery artifacts; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "82e419a37e9541a9b5806b2720223e14cecca72439bb1df7b1ca192942fd7d4a",
+      "category": "known_malicious",
+      "description": "ESET Research: Bandook campaign malware and malicious delivery artifacts; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "608e81c3729a555250ccbec363bb662764f2722d5f5b35fc9238f8947d805d0b",
+      "category": "known_malicious",
+      "description": "ESET Research: Bandook campaign malware and malicious delivery artifacts; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "5a9dbde7abe664d8b2e0ac02346f6109701afade1421f7196683d5803137fcee",
+      "category": "known_malicious",
+      "description": "ESET Research: Bandook campaign malware and malicious delivery artifacts; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "49f6c3a96a6662277a7787431c757839e9b576b537ff8e4945ad8e52e19c4571",
+      "category": "known_malicious",
+      "description": "ESET Research: Bandook campaign malware and malicious delivery artifacts; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "310d16cafaa9194248af3ccb0a4605cf25540bf4b31969d559446866215e79f2",
+      "category": "known_malicious",
+      "description": "ESET Research: Bandook campaign malware and malicious delivery artifacts; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "340cd6dea6858730625c902c933c5c024e789291e9eec33b2c85b28dec2def58",
+      "category": "known_malicious",
+      "description": "ESET Research: Bandook campaign malware and malicious delivery artifacts; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "355a9ae188043bfdc88158781c49100190606805c967935ce772582735d286c4",
+      "category": "known_malicious",
+      "description": "ESET Research: Bandook campaign malware and malicious delivery artifacts; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "8ec410d317b61b7a58bf07a6dcd01f10015d56810728ad9d160b8dc2f44e4055",
+      "category": "known_malicious",
+      "description": "ESET Research: Bandook campaign malware and malicious delivery artifacts; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "83e3edc2186a7d257b815250605c237753ac00e4598b1871541ffa52711d289d",
+      "category": "known_malicious",
+      "description": "ESET Research: Bandook campaign malware and malicious delivery artifacts; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "9e902f3127dcfa9b03e2679538986ba83bd14c435a13fa94db52e83c52812ce6",
+      "category": "known_malicious",
+      "description": "ESET Research: Bandook campaign malware and malicious delivery artifacts; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "a7d252b9a219a960c4f2b10e27c30383102ced6b07345f8e18c5908ac2789cff",
+      "category": "known_malicious",
+      "description": "ESET Research: Bandook campaign malware and malicious delivery artifacts; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "cbb0ccc3683e6e2382c73bbeed66044a32d05b0f0cb9a18c80c39fc1d50be290",
+      "category": "known_malicious",
+      "description": "ESET Research: Bandook campaign malware and malicious delivery artifacts; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "7527e4b5703b6e9cf33000c7dfd26ed96328bce1089d005c8add87693bbdfdcc",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "48a1038a51db17fc29004a5002c9d9516beeda5f929b1c977100860a4e35ab9a",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "2639a62b2ab8ac81ad5f644837da3a900c592d650617b8fe74cb87585383ac6c",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "dcff806c96ba36d2a7ed3da035b371a37aa65990e358ce811494467514de3e19",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "a7243fd5d695e963867b1a82f3e8c2529d94090d91f26bfef9cd0a6f56dac241",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "53fcd115dc1fa4abf3072c5da6c30c8d1b4b3e23e28eeb99357a131ac88e8e01",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "5c7a8dbc0e58790e1190a65d6671c1434249998e8eaa45ac4380ac153f7e4b9a",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "46c18c798c7186559828eb8b60db7c28af95320393f6cc43701995a3f7e530d8",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "d739efa432bd546ee6f978eaabb2c877770019a7f8982a92706f44f4f3ee32d4",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "f023ba04767c8270f0e797b7e54a37f2ac4d7a3f0a0ec05506309e9a222a21a3",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "8eab3213c7480b8d034968d59c9555afda8d89d759d1f4e80b7164c0771724cd",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "ef7842a4a251410487bbfa2f9bee0a41f94264f18711424ec7556dac5abf088e",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "088997bd4720cb4f8176645b350518bb23f11e2fbb61da07928df8d08ff80c1a",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "37cc927aabd16c8134d0a9ab20fee1a80a5e533615ec75664a5275a2f8d193bd",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "e703046ec166a0d8bfe6e631c681fae6b57dd65c698f302bb8aa52d9d9632e5d",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "f4864f53fa1b1c441322bf68e27e8e6bde834b421150f3fd6832ecbd5932b9f0",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "6b84f71b6a3bc4de0a0e2859ce131dc1d141d5839a316fac798721c532327fca",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "ef843821b71fd8837c36baaae9389c99812716a20c57db1f56064d45a4bf7939",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "4e20bae9c66e2beba5ac3c206fd6368d156640df03a117e0ee109f637551bcbb",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "66c5dc4979a40ad3f7259541ed2af8757180cab3228604ac903b5e5012ad4731",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "8f6a8333bbf04a420d6ec9106842195dfa6fa32c13a5748bd79a59305fe7c247",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "be8860e5f1721882b8f00d8cb67d8b1e9f88bf77165ed0208680668c8b6cce00",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "c73591d566da86c712ec81b266fb0c571730b005c2224b2f82b5ca67868deb42",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "6dbbfe12cf282ef3094e2d1ff9c2d291d019d133f6a1713843396b50aa65f1f3",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "f776adfb3bd0ef23ed618dd9572c2cfed3eb4f78b66370a2dc7c726d563c57f4",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "d5dc2b164d460ed315cb8a9cd5a4468efbd305e6578933d2b0ee59115e44a16c",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "4eab52ad6039412554b1b2b33dba03648db2da1dd2536e866f70d1511f0bd1d4",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "30667b8c87b1123d97d8fe05127ea3f3b4b7bd26d9013a404d635b1fff0f1876",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "c87dea7e2d8763fb23b24c21e6880d4779c646675bc28bb6d00380b4f5ca4ec7",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "8ca08d9ea81931af35fdcf184f81c562678031842ed2757382b61811507e4b04",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "ea612b9b1d1a773b1ffca1eba60f9a56699fe94255f4ff60e1981340776c99b9",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "0cc658715ccbba270ff6b2b7328e09b41388e77d90bd69660e7d5c729303ba59",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "251cb0d43dc05409ec2410d7bab0704694aa93904d6ee3878e7c918b21c37c36",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "2e8183b310e8ff9ba644a894747db367430c5296063f2c41d820881a4afed727",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "c1a70e41e3f95c2adb513e79981ced5cdfc5b48e2cc2784ec0c7bdef5db34440",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "6fa008dbd40e127b1a8debe8d0f3190165d9bc269a9ebb56e44178a4026a1455",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "a7db4434cff1483199435179ff0a942c14eb5f5c6e584faf6335b8c4cdf498c1",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "e182ff0d282aaff10de42c5b2e9344668875431ea495d00eb359a7b23127d054",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "d374633a70b11e8552699a6e1cab1a2ca92c0d80e5a98379188000179b8c29aa",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "1a65bc0f2313d9baea191429eddac2fbafdf551defe27412c5d4ca1f3aa397a4",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "9cbaac8a3b04857e2c39a1035526875a2d8e510d024166369aec92851a26043b",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "b3534bde9c24f637d675d18bf8dd33e8ce643324c4d66864498115673a96ce2a",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "a0484aba65a92f902fff847bfaebb0de568d6ac00d0aba24fba8840ceca78a3d",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "08d930773f3628d259a64dd722a751c16b6c98927dcd97531a3667f336bcb48e",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "e51ebfb8ec489b11e240acd7663cb8dce8691b482f1bee2d8b69ec65ae4bfa3e",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "1bde0a5b463343c582f80c9033ff00d075447cee5b136b5b2d32b597a665644a",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "a85a68b2c6365868a837579eb4e520c599361164016a42ad8fa4468e6d958de6",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "dad588a500f0a66928e4e56a33de117e9c2dda433b78b16847abecdcab693633",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "6f41b65b58fd7871e2975713d96aeee16f639f9851bf8c9394d92ced2df4efa6",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "0da37bc47793c0cbd534794fd338eb80d9f96ddd241d2836e426d8569ecbb219",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "9af98e58368ab1595d82abce756cc35d5374411bbb25fccae20c2c52cddeaf44",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "988cc2c1c437ffa42bb190f2691de9d0451d777cbd913429327ba73bd7e94109",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "27e63915e224e082a8d69f1b8c0e14db0dca2828a7bd2d8b665060f733677f91",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "86a1c920637ecc243859e91a8c077397ce193184a435f0935c0de80740330508",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "00e39645a863ec6b6d98f03b4949e304fee6e703e64fc8133b04834b9873806a",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "ae9d45524b4bb278620986c49732797b758d44671fe865cf8183de1024679ed4",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "65e9ff9d991b594bbede5ec68b285f1111e91ce0ae04b1c27bf15e48a29860a1",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "0ff821cbefd3f8715f38480e9657061c9b5621488ec88754c454f8b9d9bd4946",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "8d1e1d768062c246225713aad58af4943c081bf69f7987ce20799622e96e48dc",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "ed150dbb6f54c3ac74e3359a4dee9dea9400655d1bc87a3407fe441b14f7ea68",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "9c40bd71680049814ed521d43c3772a92cbf02e33dce61c9a8f7d31942a624f8",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "e481a50f234521cb14edebcf7af3419aa6d59119d57e416130023cdaf2665f33",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "ff80a8a4bc954eafb053c98b3b8a41ff99b675091eddf2f15382fdfd7b892f8e",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "89fdae94f443d89c2129c335ab6b3d70d4ba80277792ceca566e76b9cbd5e66a",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "037d35a1c04969e33f230fc5cd6155b89e58c7437c822d24bf10a93c7bcc3d50",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "23fdd88d2c794434c099a3581e7c1ff80c39fceea61f5aea1d77459cc92304c6",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "c0e9cd15925831b9f950567bf970217136ed7511e83196d045ea17e8dfcb91bd",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "3981217c0c8be168f11b5447af8686376c58ff23326375e99b8ec3a7153c7ecb",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "237ab63fb32e4783701689bed0b9a3d9333071e401b3b0308f7da00face3a2b5",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "b41a2e72f4383b0fdf0196868b927d8b77f641262f6f447fbee68d32fb850ada",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "6bfba104e5acde54a53ec248018c9646b30d1938ec07e24fea478123de9726b7",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "e74e22e38956dd723f224b403c542dde63e9b639d776a70169536e29fd4bf4da",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "a8f4eba955f8ba81ab54ed6a2f9721f7e73570f95bf8e1ed62df4af0c9efa351",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "e2d521b555afa813b29c0798fe0cd23fb9a87159ae48c3a48d24acc8fb1fbf19",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "bede3e54d43ddf66405109ab2bb8e48f5ef3b9ae101eef66315049b693d25371",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "1bea8c0398df41ea2bd7e3611b4380d9277bee0e0b603f1229cbc56e84f367e0",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "67ef56c5ecada38cd9c5ce0f718d07ddf3a08a808a86aa3809cb64de066f013f",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "5a47f0b3f8eabcecd3d2539b84fc98d9c947a963525cc7c5f34b0dab3bb40bfa",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "b7a5a3aaaae8b8d7c186f4ae4fe24fc00d2a805a59d342bd7c239428df17abcb",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "d849b671d5dc31e8822ca204c1d653f4805c7703846760477365d4b55e2e55d5",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "0da76985933a306a716317b84d12c08a2f18c4b3719a9dcb06de0029360c5449",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "6f19a2747576f953d42bf9140826f50b2c1ca48c6e94190b1efb0f36c3c03b45",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "23fbd53713a01f9c2759cfc5b5713c04c3ff9bfb82fbad8f4fc4b3b80108e8e9",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "03bba079a52b2d047bbf96a83c9f6b88e2cddb6b59e4c3c124a4c9dc67a8dfa9",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "314349441bd2c3c4f0c6d70ddb53377d8e3f338330d916ee190f3c155636ec52",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "70b446cce21c01db3b46f99900b8f904ed088bff6c7818fdd0eaf1e358a5334f",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "8ba2494cb7b5c457cd80668d147ccba445053d5da0f2ab5c178652e7c3b7b58f",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "f965c4baad0522b40b003c06075e2986276e0c2b71e131d8d0c8fec36c16d266",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "c2cb8dfde74db71df9c4fb983b5f5994c51ea6853eccb4536c8a76e9229920e8",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "1298e34ed899386fadd4499f17dc89053b2002895a5490c84792ee1c3513896a",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "97ab614dbc9096d3eef401bdd218e5ce7cd26040c08079240de684f1da149fc0",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "db5e5233bd3c7e03f17b333230aba73284baca6c48c852eaca8122f13998e600",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "9bfd2bda13bd5dbe7e1ca86670bb13bf98421a72761ab2d650b77cd2a9511d53",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "e898f786e2cdd62c571b0a81548db1bc9355ec039800786ea735b098f4d55b13",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "9b74ea3668e00e39ae00d363866dd195728c1b790d88e76b5197150d523d7c04",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "319e9dc36678c4d774ba0765ec93d3160bd476ab0f98bac1b7e5b92e7994a88a",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "894a0e839e1c83c00f91830286990947142b016eb7339e0fc37198c345e2f3e0",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "b7f3a9b51c3bc94b9f4e431fd517236768f850d4e05ade92495870afaa7ac9a2",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "8421bc0f086fe51755c4255e1b67907ffdac715f3b5a57086a60079448a38b30",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "15279f1adf282c18900036f3ae37745651a5ef66c046c59793e8f33aecfff4ed",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "573220ef6be2a2babd39c42b16924dc3882da2d34cdbc0a513cb3a4546f7feba",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "c049b68f305f63bd2ff6ed4ce79946240df74bef33060d321035f242835f5b5b",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "49de29723d5ac0ed499f8c32854247a48b3efd2342c939165c1d21fa3f5aa038",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "fab00716bf6b669802c02ecb2fb4dc0ccbc2b73551b9cf63a705c402940c00d1",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "907252956676575eaff0357715be1f2176ea0c209b4104987cafa2718fe848e8",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "6a541856ba3de09d0ded3f6ea10cf254af7d8faba37690b5065bcfe1c58299f2",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "fc6d1ca22245e8b96839591165062908771d5f86659e295f83162f41cbc99386",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "6c7e4060cf5085afcb69b4e194d0eb5d492858b6c3313bc815178a911e5115ba",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "d9e15fe65bd77749fa5b70be7425856eb65e1d4080d60699380b1c87f524c8e4",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "b06a86deeefca30a7bd535fd16588890acb34498e339c8626e7776686ecb7a50",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "c6967b6789312a19fa9129a530245b87c1d2f744c1bbbe3c7491daa224fd4381",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "12365db0900b87d483344f1955fe8a9d373d4fbb412e11b704a7bb6c5d79af72",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "9cf5f43543517be5ff9c78cd52566439607b11f0dbe2508b4e4cc150680ad83a",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "cb1d4bff8b110dabc94db1490802bc27f33b80469fe8464294581451361a01ae",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "fcdaf0c292f8a95b6f7d3e2029b29dc7f522885cf7abd9ae2324f3c1fd67fadd",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "8532a45be3b554c26b3d3043de4d5e2f2cd15bb4612efb591171c96f7ffb79d5",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "6863b0d4e1c6da1eedc7e4306197fefadb8a6d9f0a740c5fe3f0d9f62748c7c4",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "bee535f9526c39827f200d62ca8c3cd714c6bedda4b13fdab79ddf19aa10a29a",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "612214f31981314a37c3a2acc28275a6079bc137ff56f26d210a9bb248b8ad80",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "795ed0f55dae6c7d97ec496a73aefdd426360189403b923a9d924a24355599a9",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "d66da00ef0ba7be7b1b6b034fd2cbc40fcaee644fe48be3abfbbc02e402124a4",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "1054906bb0b693d35d344277daea2d5c95a03bf2b6519462e4005ef57f8a13ca",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "72864fa3b351b8d2219bdb9f0a4b08b1c5221f062c3e76e6368212526deeeccd",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "5339628aa132b77f6909888b00fba61d140b8b736a94a9f1eb11560d6a946228",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "72c42d53b8b6b70f7e962d94cc0c7a440126eae4792b3c5472603965c18bc724",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "5f545b7fe1dd3f41fb95b0745af80af8389753b466e204f6c50e78e392df6b02",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "36b7beed29f47ade3a3657bef9fb941e64c37ebd2385433279a6b4133b723772",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "58b4bb6690bf82b62890d935948eecfad634015b6f805e3bb85e33bde7e916d1",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "d488403049cbf3325f5d5cc66bdb9dece6ebe49b51a0e91f951be85397bbf074",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "ef729f9da095c2b812363b0d5ac442b44fd4f3d8f17ebef43cefe4afaa12be39",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "a1316cb2845dd8ddb5f0c26213f8bcd82b7615ab796a446bba5a24c3870d2ec0",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "191efa2e87c75117bcce8da5216fb70e901733a0ac86ffa7e58e275a9b8652c2",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "f34005fa7a7f02667c9fae2ab5c017021451cbf5edd529e29151b99afbc59278",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "475b0ae3c9ed114d89700e5230fecab86745f125c040ac3265b44609f5604ee9",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "3c7c3689da4d19be3192f5ab43739d2c5eef693cc2636b52898fd2867e8ee23c",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "7b3e0544a5d3cd49852f668154a42ddac2324081c369038d041b4bdd33dc0fa7",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "d16177a1fe3b320195986d837d7a3af7b2eac0e42b46bb69d034e863bffbfbb4",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "c1afb93dad2337bf04abe45d7f78fa2fc70152c012de2e2960ae266e2b251446",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "89c21a188dd83f1224957c186d6c38aa26a4233d862bfb72d9b429ab24feff7d",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "8270b16cd9c2fc8bdde20ef96501eed16bedf70ddc8e25ea31532222880b90fe",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "3f487ee7acacc926cf291623b1ae50accc64dd97e8d636745818d43ccfdff26f",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "e233270274d7dd4145be8b678eb85d06fdd0df816823777c507627062223f418",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "eaf7d1fdb8e05f2887f5302337c57b93d87a166dddf5b1e5ecd3afa1ee7851ad",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "1c668e878907a5053751f57804b0113b38223177b542c9d38f4c7277a0b7e41f",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "5bdc39f925d6d7fd78a9353ad210028a42b2b4975a7857e9f78e804582855666",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "963af46cabcf8c3dffa50e346fca451dea4817bf10cb4c11afeecdb8e71d2039",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "a468274ddc7c300f4633a4772a88c2e6b4ebc777e86c7924cf802392e8b44853",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "5961be871a94a52956aceb0f917d32b7a2a15c78579ae16981e8bd917c9db9ca",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "e01efa282b5be2e0d5640cdaeb6a01fc8a8d631509a1c417652c6adf292fd251",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "04ddd1fcb44bb58a298320b6290bb8543ccb1d27c9f2aeaf9b22266f14e887ae",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "5af1bad006d403ed79659be8612825356d3f82610d6d667ef1c6493431ecd222",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "ec581e93e91714812df16e17fb5b0f405c5dd046432d70e6a048a01b9da58206",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "e6df7c462728bac7803b61310fb6d41099e30b088682bd029ab0cba670b2f90e",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "7729bf3c4bc5aee6961e693d57c78f06ab757172d37e3b5618eaa7ddf8afa247",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "809156809cbdfc75a988ce9006b5310872d0194a2b36b554ebe447332d9290a6",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "bc009f49800ad491bd879949263674ab59f967a5fded5b897b7a8320e541fecb",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "a035f0edadb03ced1b1c770b868bc2d5186cd9249b71e30fbbfaf75766fd87d0",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "ea5420338d05e1e470602f43c54e9a87ee693af95574b8673a1c7c4c04d734e9",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "1c4a5e53311525b336ba1c75f91740bc643479eaa264b73b800a15b406b2e250",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "249e6ab11febfd87f9698f9c1eb2ab96f865ec2bc7f01d98cb25e1879d86b705",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "1e8afe769032c8b6b2c964d2b938583b01dc1292e7ff78765751bd333de4eb6a",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "568ea014b0bf7ff88f79842cdd277514f17ac1b0d9a8fa9e5ba3c48ac2f639a6",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "da5823964a66288408f957a8c560e815b0b3eab8acc9912656eb9b78a0f76247",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "f407994244237708a0f9a52114bb44a4aee2b083eaebc9c8df99170b231e2dac",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "def420bdb1a20f8ae42729337e3521a45b04c5c36f260563e9326234c0d61365",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "97e46209346be8d297ae928b26d1bb196214810524ff7fc422e385bca7f67d8c",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "af8f639c4986b892cf6a8a2505850c474ce11bbb718a6b610cc0e51fdb4be00e",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "6214ac9bdf15df2e1e53523bf6840576ef8cc6372bb7faf58ae566760cf8c3db",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "155745795da52d33164409813a2a9760598dbff99af1e25e35596d7b1aa4a587",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "f60ca04b1cc46191be552c5e8129af0e48598e3ae52dcb9458376bdeb66bafa4",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "b7161b1a5b7c17c5418cbe9959110c681e53afbd13f9a95984b9c9e3ec90443d",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "efcec363b2636118e3fc701c637eec7767e83b6a9959172db22b3999a87b8958",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "137037205ee20c122db16f163502acfc242af0fa943353cd6e83c562833fa529",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "6a49d5193f22eec3a23795fe48be4eb7b0b029cbd6148b0dfc1d44bad78c7e6a",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "c6e77727663b9d02a2420bc5f6f5ef359d18e66013f7eaf9d6a2a41bee16053c",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "0e633ea3fd226d41229d1efaf702ebeb028ffec7021dfc6d8dd11a71fefde146",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "3d2c5f8569bbd451a7a0713d3c06fc9ab6879f33885ddcc3bfe8278dbdff05c4",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "96cfa5e0bcfd905e571db378bc9938d1465755ec55c5c1df41ee739cfa06d000",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "4edf6f469d86156e0a590eab57b270da4a930ce66dcaa6ff904f4279697acad3",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "c29e66b1e1ceaceb6c1b973361b0c62bf365bd7bcf170d54c7b54c803db78161",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "081a6b99de513d88207b03c5955b0cb2658f775ce5af0cf78e1ab3dc8782779f",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "22c5b71437604ccbf0a0959a219c8ed522b85354c5493eec32b75c433e14af28",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "89d236b0bc6bce722d314b3b868a59678c45320d9707582c3c1a1c3625e6b516",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "2186dde53f91d76ed7e105cca6753ccf262e91600f1c32cf99a0c58215f2c509",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "fcd5221f87b09cc0de4d6bc36e324c790ed552c90096c01ade81a7543b0d735d",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "1be3f8d82a48060617f9a485851299585599b557eb451f15c31b497a379581db",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "8958119347156cfb6c7847f73b2daffc0193ab884c0f59edd37cc66777f44807",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "a114648839d03a3285f6c6ebc67410f5341f5e526b1176d12646bab79e5d0550",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "3f37a48a0d7688de88084f3140276e381092fa6b931569afe5c34c3f08c664b0",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "3be101bb5aae28473f768238be097f92e9b2dd21707665dc41571b48d6ab7d0d",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "08791b60bba6c62e1642b8e6bab2f534424803b3a2cdb5e424677dca01b0afd6",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "bb03630a0a3bc7f565024379227a672e7070364b5dda2b67c49a0df15cefeb05",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "7ef04f0347ca411ccdbf3ea32023eb5f05e01c200367091de3cd74521737cded",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "70bf89949423fae5dfad2b208ada55100436ee3d61e36cf43a203eebd6050563",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "11900b241706ff047bdb6e8b03acc0e88e650b79c91ef155b98969fd369d71e6",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "bcea26e2c945c1dc011a7912aa093fd17bd9e228db03152948d6cdba45ad2d07",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "6431fe433fec238d82998dec2690065d3831ddfd6fe543560572e52ae02d3016",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "be434f44ebfda578895f8c1ac6c22e615ab9728f35bb4dc4f6feeb078df5edb5",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "86eb341f61edc4ae2afd26cfdbf3ed393aa9082c0c9ba86288ce11027824ff67",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "d3e65b159bc75e8e5bf855294069fa0f2d558cf21aabaea88ca28f50d9d71e38",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "914b6db9193c5c19c9917bbf337420d13d594c489910fe089968b88ac4e1ef3a",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "6f3fe8034fd24a8f326d6d75f217fd5815f73aeaafc5aaf7f042fec74de1cd69",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "c1c3765fddf52421dd521fa3dbb9031cfd92dab68d32e37a588c18cc77bb83fa",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "a0ffd62b17ef194a7f26a05d2a1c54b4fbc03efced7d9c4af7127b99c1714500",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "64093c062e73ed0fc37c2c675beaf4fd0ae585736582794c9b5f2e19fba6f535",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "87e39bfa47635ece633a7f76edc5d567f7297ccc62a2e1daa19a7ff3c52f68c8",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "3ce26892633ab8306789527064e8af4e8c589eee9abf36c501c407f93dbc7c47",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "9b6414f7f21a732cb5f385fd9207389452a2e71cd383107fab780cac2eeae749",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "dd81c74311a0c88c47ff7902b3bec47289349b622cfdaa4806e5071f8e68f548",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "39bed88a0805084a747ddf86d1a6006aaa56f71aee98b59c5b2f9d0074507daa",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "c65ee6a491e7e1c411fe0dc3272fa8ef47a39756702dab8f6909c3381e770442",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "2f52c4c38ba97e5ab45a001923cd4a22cd03423f864aaf6fb019238303c38693",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "bb16d14a6f35bef1f05aa34b8a3f4db162ff0a28507a5ff907da73a1f666a431",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "10c66839e7d850b7c5ebec27ab401069ab6c0b0d75b00d929ca532e8227eed9b",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "93bf289782f4b96db0f8586db7fcc789355bf10c4e30dd85c8699c043ab8a154",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "cb112e7c5387a527885360b050de21948002e43087b03957a9738c0b807370bf",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "33b09887fca313d4074b713697180e22747a18fe1e8d7c35db222399360e0d6d",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "b90e4e23f4d8de16aa99bb3d7b82bdf5f26f13a43147534216e1188351e8209b",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "7eb0e35c48133b88b92c0138cb2e1c5a5641eafb19ec747266a7dcc8ea379288",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "cd82d0867534296a192faf8058d47c201c54511b3fe3667c75b1479321d1320b",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "5c8684a72269690c834050401c4515ed22dbab6d97ff8c0c60d1d18996bb8af3",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "1aaa2f6addca94a7b6f0908087df54d23c7f59af955a345a78e5f393b33aae8c",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "8fa3b21857eaf95fe8a8ec050ee30b373e60cba6367878c2a399264ab070cf83",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "7d9345d582067d9d11c67dc06e2deaeb7917fa9248eb6c8453a7386712d7e3b7",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "e8528c3d2f4d0ee91ffc96a266c21c111441227e665f0d219ede7c2d3d5dba85",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "5691baf66fbc1667181a247f534398cbf5ac34c079a1d674a955fe4bed0384dc",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "a91fee7d6a95791ddd9d545ab79f8145b81758f20e02b3a26b5d0181825017eb",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "cc189a7bb40f6045be1b829f0d6afbf9702167068c9f7989dc4aca23dcfdd687",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "bff8bafe6a528d2038bb118be8577dee0468e71dda8f904ce6f266759cad7119",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "79ecab9dbbf2fb0a73409379662f416518f03a1f5f540ab87675d1cf052b3b31",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "7fdbeb7c62cfac319389a0ee3b528b03a898c48c7305b09e3563acb8ad820221",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "9665083b8d586a8d87dd8a7b1810076ef19da68a40694d9c735b12c46302fc0e",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "60836849dfd9b3958ef96275b35cedba9d366593960efd07f7d0c3a6a031926b",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "6e7d7e285063dd1ade2e9be45ebadc8bbdef7fd0e2605f3957146e29530b08a9",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "54910bd45362920f64d7e42899e7edc096e4372074b3c6d742978452d997fbf9",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "b3e1efd8b6c8ac873a62a49d788cb5004f4703c0e0ca69bf5a5c48b383b6b3e8",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "30ecb7a6fd54961e143e6b4f1b35ae7af397b77d8b65db9cffc11003f907a92a",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "8704e119bbc67f8916e5b8693b62fafd3823d3abf570e4dc0deb112418268347",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "d2eecc4fc8f7b55018c996d05f32666918bf38770792b6d989fd816abae1d43b",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "27ec3955527a606dea9450c5c38c8f22cc1eea6e6448ac88e840eeaee4af2b97",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "8d3d07bf51725f9e3a05ff225e601ecd382527fa3fb978cb79486ad729eba43c",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "14106ffda72ac73d23b90e7c7d612e376b5331ede5b2d149db43101a09a41378",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "e252a3daa1d198674c99ce02786c39d90e1f8c54c7e8866768ab783197cdb8a5",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "c036f71ff5ae7f839b62fce453a7a15fcb115de9bf3e8956dbab972a76587aea",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "19958ac484b15d15a427a5f3cd6be44beb170314eb8ee0d154241b36ccb214c8",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "3ba655cbadfd763e6219be646a698914e77644513bdf3bd5a20b804adcdd8ca9",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "9cf868ef7fdfad97dbc1bcec630bce3c431c88d5270f2aef05be153f92fe4c1b",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "0d539715eebe66a816f7903fad6d7b8bf7419eb5d3892973e4d378502ee7d043",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "d4a4b3d582cec369817d7980b174274b112fa8ebd9a903830c026707db6a35ea",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "351bd0c94fc80277dc193ccad6e180c14867df73b173d098899825cbf56e3c77",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "816e8d4f3eb2e5e69d7e780cd5df4e23f63e5f35053cbdaca50770edbd3a3bde",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "41b18307bbd325ffea52446191238cc7c78dc6b05d80ea7f8717dd08e3c50d08",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "b02b69ec9d2c0a19386df0c88b5540317d246a2ccb2fdf5975b157a7089b3dd5",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "3adef602b1d5d774d26afec74d638cff777092aafc1df7dd0d354797ccde6765",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "c2b408b913aff686c45d6681ab7276c2fa5f9e4ecee5ab9668cb7bcd072d8f2d",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "a9df4bf1983bba614d4f41b59b5dc045c6f237480dc0c143181bb57895c8ab11",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "1f2cca202152efca8c102e16f5ad1120d4c9863b06ce89a8d04aab4f3d87da24",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "8c834c4c54e308f327cb7e8b92de34bf02296f5bddc8e9204ef720916076174c",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "badc7c60cc50fbe0bd79f621c7b179281eeb4eed40ad95b54c13286a84d02749",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "11f4b9bc0d87a974077da0d8de8564960bed83092d132282ce750034a907c3bc",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "13397c16dd80051ee25603694b0b1dbc9a72749eb367afc89ead5d1926cdb303",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "7bc4b4e7796eaedb7e6fc8314391c0d0a91ccd8f331c4ebcf4957f1c50a2bd80",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "e61bc880b62d8751ac47379bfbd193b7e8c586766a54eccc2aa3983b3352df61",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "eb41f364b93bf0bd183d88a028c20b7306b9b76e93a6bf1eceedf2fcd7535188",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "37918ca8964bb402d2e7829b49d8a0b2efc0a8e41807a4eeb552371a01fa36ff",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "8fa4b648912ad7e39bbe7a7570aff8323e90e90736931b5628adbb5b55d29b2c",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "47acce0cd8f23ae4b278fa0df1889fcdc0b2dc16347ad34d21414341a7f24190",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "605a7c9a03ec09a216a71988a623d44786c5be98eacf9f7be928a62c4765d694",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "d3a290f2c5d89d34a98a8628d7f56983627229c03c21b439a29a5ace4b9f3d50",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "5bc75d55e87dd2533e861bf9b42957ffdc2181a95f66c13b779627ec1c116beb",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "d8eb8e8b8adbcbc03639d2373884623d5a25d1c1fd0bc9f60c7ed1208ca30f52",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "97d9775cfea79b2285fe3fdc6e0a2d977ee3c5f0e7053a9a55e550e7027f12be",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "e57f0f1e5a144ccc0eb4a2ea0d3b4863a49e99c32758c9c413e250ae0654cc63",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "0fc2dd3e36bad9c14289428d83dbb2ff1659b100fdfecd32a232314deb87f831",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "806e967c3b96329bf63e5be2bcc83857fffbffe289a98e248f208b51cc536b66",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "8911d769d59d6a85222fd68975cd8362e2e88ec54fb7377cff9db5794bea66c5",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "741f4566baa2585a47259872b45aa84ac8a443a8c46ab25025e3efffe5bce38f",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "dd67a13827753fa024efe9844f5d857de43ce394a68285479e0807377372ad37",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "396198511123d5da489db32019c8fcc0ac5b0d12d5a2eb9e92f9eee723ab9289",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "ffb2142cc50b9fa3e809635ebc4411c39125cec81bb6230a888067a609046203",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "7ccb5cfc5fc9348bf635838beca2506b2da543af24b70f8415d6d5f214b7a142",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "f133362898ee9e8e4963613407606e082e7e3257d3f2224a42edfb63acf02e3d",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "20a5a7a77c44f9c79fd4c54378f2027ea8427319d1963ac669e8592e6a05db5a",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "9f76249c964289d2266eac5a9bd35ee05d9018a5858a8d615f7773ef89907c4d",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "941e6b46000dc5aaf60d7c768112afcef11f12e00f95af04aa34ca9d463eacb0",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "882187e5b10dde9031444fd073beff305fa128e2ce780949ca0956685c4fa7f5",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "69aa855314d7b4152f9a799200a0b11a3e1520616504cdb31e8ef16da3785eaa",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "87c2c8f7608dd26ec1f96cadcbaa46c20da97e907a712b0bf6895db72adede56",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "04f77c0c1f5a1a0a05a3084655e99bd5a318f4244c0a6407fd46d04595a308b6",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "986aafa0c47eeedf129a6877d31d369d5a5b543b6052a169aac2281b93a8cd03",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "b5954a2ac3e10b6fca237fe02cd0698bc3e60474f711095b4be02e36cbd3eb8c",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "b1e586e76463880a343b226f01a9d0e8b19ee4adf75cf7461ef245c0b71f69ec",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "35511304c2799e7f92d214cad20f40c0f86526badd011812cd520522098b9bb3",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "a6f3e7bc331125c26da5a026623433d6f9290b1c798b1565ea364a2c5b0ed7de",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "68957dd6d011f39f20b0d5aa3bf55b95ba1afb21ca122835555d29f97105decc",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "e18b8e7bdb3b58d1f827471002fe5787ea131369a3e09f1f205ab21daf0ed30c",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "82137e982c5650865efab776a28fd703c1491996d8cd74e40dd91a036178fded",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "8c1c9fc305248dec8422d60a8d964bfdd49f1a96d5af73575c33a672986eca04",
+      "category": "known_malicious",
+      "description": "ESET Research: Groundbait / Prikormka trojan investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "4915089489c8f7e4f91a2d17a00c9c17a469b1d509983aae0e21dfe6877ee008",
+      "category": "known_malicious",
+      "description": "ESET Research: Emotet investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "5a576c9a8f81f2592d296558f2359b596759306faf042cf02f26fe2144bb5d77",
+      "category": "known_malicious",
+      "description": "ESET Research: Emotet investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "08039481f17de1a125763d6dadc9a91615fa027ad42a4f42d886b94063a94822",
+      "category": "known_malicious",
+      "description": "ESET Research: Emotet investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "c384e1f1e0529a78cf8aca87331d46d7190df2f23b27fabdaec83f2245526eda",
+      "category": "known_malicious",
+      "description": "ESET Research: Emotet investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "fe9fa92d8b65ea8a7a316ed784151fef8c7117ba4624477d8abc9866191278a0",
+      "category": "known_malicious",
+      "description": "ESET Research: Emotet investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "2c180950af33f3696da081e258b378a57ba19abf5da4dfc92e7976e6f4b278ed",
+      "category": "known_malicious",
+      "description": "ESET Research: Emotet investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "8392d6beb642489e9bef9476014d6bcc4227cc2a346412cfcd0faac0fa7d05da",
+      "category": "known_malicious",
+      "description": "ESET Research: Emotet investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "cd932801427d31e32d61b519e46ec251028aa55dfebec4ec46a9353acf848961",
+      "category": "known_malicious",
+      "description": "ESET Research: Emotet investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "36c57c648db330c6d665c1fcded35183ee6a131eb85c4dc1e86e0cae6b6e24ca",
+      "category": "known_malicious",
+      "description": "ESET Research: Emotet investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "88359aebe48768a0bf2875e63ea852418d0d05ccef2ec82eb4c60c9dc6bc5f72",
+      "category": "known_malicious",
+      "description": "ESET Research: Lumma Stealer investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "d597c0769951c8ca406d29f93360012d142a295e19f604a1b4ddfd53965cd6a8",
+      "category": "known_malicious",
+      "description": "ESET Research: Lumma Stealer investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "638c4ab0ce9bd905bb562f3256101a8f272a16602d6f8a4a56181fa618848776",
+      "category": "known_malicious",
+      "description": "ESET Research: Lumma Stealer investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "d5b6cd18d84f4c8334b84745bc0603d7d7407aa7243ef945f8a3696c9d097f65",
+      "category": "known_malicious",
+      "description": "ESET Research: Lumma Stealer investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "7ebb1d3e12248eac927154976f21f9bcfe3f3619a7f7c17e8ee27df17bbc8a7a",
+      "category": "known_malicious",
+      "description": "ESET Research: Lumma Stealer investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "6dfd2f80ca02e2e0075ef7094ef84602fc4e55a5861d82bf3325d9a7353e4377",
+      "category": "known_malicious",
+      "description": "ESET Research: Lumma Stealer investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "a4ef70490b7895d0f65f6542edd4a00eaa6af385bb93e20d52a5d08769c5e022",
+      "category": "known_malicious",
+      "description": "ESET Research: Lumma Stealer investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "cbc5b827ea3a5a454df5f125479b7b6a8a5cc66a355b54ad8b8fcf055225bd88",
+      "category": "known_malicious",
+      "description": "ESET Research: Lumma Stealer investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "2b4cf28d298fe5d22bb4226219cfec717b16b8f58389a8a58322f5780ac3393c",
+      "category": "known_malicious",
+      "description": "ESET Research: Lumma Stealer investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "6a0546861b6e644b6072e492833d3074023f8f0b9d83782f14810129de653a81",
+      "category": "known_malicious",
+      "description": "ESET Research: Lumma Stealer investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "493b98fb4255165cc9b62e13ce0af1e7efbe5dfef749587b68d7255df98f2812",
+      "category": "known_malicious",
+      "description": "ESET Research: Lumma Stealer investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "dfa2ab0714c9f234b63fd1295ce468bd247465701a90b8a9ab9eb3d6d032d258",
+      "category": "known_malicious",
+      "description": "ESET Research: Lumma Stealer investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "1281e67bf66f5af0b21058877d571874761f877e17fe19ea16a750966db92aca",
+      "category": "known_malicious",
+      "description": "ESET Research: Lumma Stealer investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "a8ce4d4e61236b1e7596193163214e803abe223e5616b826661642b166e25486",
+      "category": "known_malicious",
+      "description": "ESET Research: Grandoreiro banking trojan and downloader investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "b1e4ae121886039ea865549d0cb81f1f954056545a5aec487a538ae5f616bb52",
+      "category": "known_malicious",
+      "description": "ESET Research: Grandoreiro banking trojan and downloader investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "5e03f24eb44630e351d99a3dcb2f749520f3b01a41da8915e61333b8a827935a",
+      "category": "known_malicious",
+      "description": "ESET Research: Grandoreiro banking trojan and downloader investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "79181209f9d352136e6f3c496fcd99356f2b92a9e07271cd5cea433629771f24",
+      "category": "known_malicious",
+      "description": "ESET Research: Grandoreiro banking trojan and downloader investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "973872421b24e0f7bb98a89a78b8fc16630f9afb35dba15852f8b3acf8a739c9",
+      "category": "known_malicious",
+      "description": "ESET Research: Grandoreiro banking trojan and downloader investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "424cab9401adc2bf7ad478eb33dabeb2df00838959ee7f089b74175530bbcccc",
+      "category": "known_malicious",
+      "description": "ESET Research: Grandoreiro banking trojan and downloader investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "8e134226dd9fa93ab9ff34bf7459b56b0e9de1db23e6d69efe941adf91bbb66a",
+      "category": "known_malicious",
+      "description": "ESET Research: Grandoreiro banking trojan and downloader investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "85dc3e2940d21966d4c596428de7f32b14ef7ebb7a0475748e8920714fec84f4",
+      "category": "known_malicious",
+      "description": "ESET Research: Grandoreiro banking trojan and downloader investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "4f90de1a174397518c3ddc27fc9ac05c819d28513555a5e50555e10098971503",
+      "category": "known_malicious",
+      "description": "ESET Research: Grandoreiro banking trojan and downloader investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "2c01734ff63d041a91d10acdb302ef4ffc400396e34140335e4faa2e3f002dbe",
+      "category": "known_malicious",
+      "description": "ESET Research: Grandoreiro banking trojan and downloader investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "305e220e1f1cb506c32bb509f246515e3cba7ec1dabae95298f358d26654bfa6",
+      "category": "known_malicious",
+      "description": "ESET Research: Grandoreiro banking trojan and downloader investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "bfaa9086b302e07877a3152460ef9c7faa0ee26afd4cfb22e40bd200dfe48934",
+      "category": "known_malicious",
+      "description": "ESET Research: Grandoreiro banking trojan and downloader investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "b949e95160734c2240ed6f330a5586e2a890264ae207df2b2f7209e361b1d239",
+      "category": "known_malicious",
+      "description": "ESET Research: HybridPetya ransomware / bootkit investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "c25e5f72850f5571e312043ad9bc3542e3dfa258d3e913b23900d3e46b998437",
+      "category": "known_malicious",
+      "description": "ESET Research: HybridPetya ransomware / bootkit investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "ccdad8f0f97fc54d7d568414364887dcbe57299257305994ea187c43a7c040a8",
+      "category": "known_malicious",
+      "description": "ESET Research: HybridPetya ransomware / bootkit investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "97bc6da2c387b4b0d6f1f08f4eeeec65359bb66cb23c15e805f68c89493bf1d4",
+      "category": "known_malicious",
+      "description": "ESET Research: HybridPetya ransomware / bootkit investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "7a9c608ed31ec4e002336e7d6a6690cfa934e5347cc89f5a7ce9ad2de744e2d2",
+      "category": "known_malicious",
+      "description": "ESET Research: HybridPetya ransomware / bootkit investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "f6e0f0a30ea75dd91a045abeb30302e1a74261feac5c5c719553656426009fa5",
+      "category": "known_malicious",
+      "description": "ESET Research: HybridPetya ransomware / bootkit investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "f3cc228437d4bcad020da7c4c224d39b77bb966fade73f20b121d78bcc66ef0a",
+      "category": "known_malicious",
+      "description": "ESET Research: HybridPetya ransomware / bootkit investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "01b57ae9cb77780f0fa2bb06f2eb78bcba188e824811e21f4b2b00d7f6fd7c1d",
+      "category": "known_malicious",
+      "description": "ESET Research: HybridPetya ransomware / bootkit investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "65f77a21080cb4f151d0df6142a0eb039f6ecdc73346e7eece0f56408b8f4c27",
+      "category": "known_malicious",
+      "description": "ESET Research: HybridPetya ransomware / bootkit investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "c75a0c76dd7cd7f364421b9b13bd2d7c4a0778bfc2a4e85e54283d75e91ae65c",
+      "category": "known_malicious",
+      "description": "ESET Research: HybridPetya ransomware / bootkit investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "0385eeab00e946a302b24a91dea4187c1210597b8e17cd9e2230450f5ece21da",
+      "category": "known_malicious",
+      "description": "ESET Research: Ukraine wipers, worm and ransomware investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "a259e9b0acf375a8bef8dbc27a8a1996ee02a56889cba07ef58c49185ab033ec",
+      "category": "known_malicious",
+      "description": "ESET Research: Ukraine wipers, worm and ransomware investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "13037b749aa4b1eda538fda26d6ac41c8f7b1d02d83f47b0d187dd645154e033",
+      "category": "known_malicious",
+      "description": "ESET Research: Ukraine wipers, worm and ransomware investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "afe1f2768e57573757039a40ac40f3c7471bb084599613b3402b1e9958e0d27a",
+      "category": "known_malicious",
+      "description": "ESET Research: Ukraine wipers, worm and ransomware investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "abf9adf2c2c21c1e8bd69975dfccb5ca53060d8e1e7271a5e9ef3b56a7e54d9f",
+      "category": "known_malicious",
+      "description": "ESET Research: Ukraine wipers, worm and ransomware investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "1bc44eef75779e3ca1eefb8ff5a64807dbc942b1e4a2672d77b9f6928d292591",
+      "category": "known_malicious",
+      "description": "ESET Research: Ukraine wipers, worm and ransomware investigation; published SHA-256 indicator. Exact variant not inferred."
+    },
+    {
+      "sha256": "4dc13bb83a16d4ff9865a51b3e4d24112327c526c1392e14d56f20d6f4eaf382",
+      "category": "known_malicious",
+      "description": "ESET Research: Ukraine wipers, worm and ransomware investigation; published SHA-256 indicator. Exact variant not inferred."
+    }
+  ]
+}

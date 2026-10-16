@@ -1,0 +1,54 @@
+{
+  "commit": "705ead5a0a86fefae3c2390f91a339852384f438",
+  "retrieved_date": "2026-10-16",
+  "sources": [
+    {
+      "campaign": "asyncrat",
+      "url": "https://github.com/eset/malware-ioc/blob/705ead5a0a86fefae3c2390f91a339852384f438/asyncrat/samples.sha256",
+      "sha256": "a71dba54a3522388f7850047adf02f1ccdedbed01c3c02bcaf2f61444bf457fe",
+      "count": 22
+    },
+    {
+      "campaign": "bandook",
+      "url": "https://github.com/eset/malware-ioc/blob/705ead5a0a86fefae3c2390f91a339852384f438/bandook/samples.sha256",
+      "sha256": "c54f60c97e904398cc8c1fa9f513fea2419055b1815bd466969a7ed3c7897b6b",
+      "count": 136
+    },
+    {
+      "campaign": "groundbait",
+      "url": "https://github.com/eset/malware-ioc/blob/705ead5a0a86fefae3c2390f91a339852384f438/groundbait/samples.sha256",
+      "sha256": "d8bfe5eeeac996617fdb153c4c84d100bd5fca6ae7a4855048bfa3e2a1a0979a",
+      "count": 298
+    },
+    {
+      "campaign": "emotet",
+      "url": "https://github.com/eset/malware-ioc/blob/705ead5a0a86fefae3c2390f91a339852384f438/emotet/samples.sha256",
+      "sha256": "1267e800cde69df4650e92dc5fa3948c19cfda48c6ae9b3d221601cddcf4ab1a",
+      "count": 9
+    },
+    {
+      "campaign": "lummastealer",
+      "url": "https://github.com/eset/malware-ioc/blob/705ead5a0a86fefae3c2390f91a339852384f438/lummastealer/samples.sha256",
+      "sha256": "f3b85c17ff954e4663c7323bf6d6e4203500479305da92ba7549f27c56fa365a",
+      "count": 13
+    },
+    {
+      "campaign": "grandoreiro",
+      "url": "https://github.com/eset/malware-ioc/blob/705ead5a0a86fefae3c2390f91a339852384f438/grandoreiro/samples.sha256",
+      "sha256": "bcc71da26675c37647dbf15a281c6cac112ad213a15308e63879e769eaf5edde",
+      "count": 12
+    },
+    {
+      "campaign": "hybridpetya",
+      "url": "https://github.com/eset/malware-ioc/blob/705ead5a0a86fefae3c2390f91a339852384f438/hybridpetya/samples.sha256",
+      "sha256": "ea96c270156fcf200b46715c998e4aa1193972f109b528179d5036d015ae26ae",
+      "count": 10
+    },
+    {
+      "campaign": "ua_wipers",
+      "url": "https://github.com/eset/malware-ioc/blob/705ead5a0a86fefae3c2390f91a339852384f438/ua_wipers/samples.sha256",
+      "sha256": "8f4def1befde167a516beb4cf096ea9ea6db0aaaf8181c20f95c32dc0e804661",
+      "count": 7
+    }
+  ]
+}

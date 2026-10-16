@@ -1,0 +1,5 @@
+indicators/upstream/*.sha256 text eol=lf
+indicators/upstream/*.json text eol=lf
+indicators/upstream/*.adoc text eol=lf
+rules/upstream/* text eol=lf
+tests/common/eset-extended-fixtures.json text eol=lf
